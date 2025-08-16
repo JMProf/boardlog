@@ -192,12 +192,6 @@ El superadmin puede purgar toda la tabla desde el panel.
 
 * Si no hay preferencia, autodetecta la del sistema (prefers-color-scheme).
 
-## 9) Exportación
-
-* Exportación a CSV desde /export/export_csv.php (requiere login).
-
-* Tipos soportados: usuarios, juegos, partidas.
-
 ## 10) Despliegue con Docker
 Ejemplo docker-compose.yml
 ```
