@@ -6,9 +6,22 @@ Aplicación para registrar partidas de juegos de mesa con roles *socio* y *super
 
 ## Imágenes
 
-[<img width="1311" height="624" alt="Image" src="https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7" />]
+<img width="1311" height="624" alt="Image" src="[https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7](https://github.com/JMProf/boardlog/blob/main/images/Gr%C3%A1fica.PNG)" />
 
-https://raw.githubusercontent.com/JMProf/boardlog/refs/heads/main/images/Juegos.PNG
+
+<img width="1311" height="624" alt="Image" src="[https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7](https://github.com/JMProf/boardlog/blob/main/images/Auditor%C3%ADa.PNG)" />
+
+<img width="1311" height="624" alt="Image" src="[https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7](https://github.com/JMProf/boardlog/blob/main/images/Juegos.PNG)" />
+
+<img width="1311" height="624" alt="Image" src="[https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7](https://github.com/JMProf/boardlog/blob/main/images/Partidas.PNG)" />
+
+<img width="1311" height="624" alt="Image" src="https://github.com/JMProf/boardlog/blob/main/images/Usuarios.PNG" />
+
+
+
+
+
+
 
 ## Despliegue rápido con Docker compose 
 ```yaml
