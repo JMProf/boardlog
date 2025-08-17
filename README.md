@@ -4,6 +4,10 @@ Aplicación para registrar partidas de juegos de mesa con roles *socio* y *super
 - Área privada para socios (crear/editar/borrar juegos/partidas).
 - Superadmin: todo lo anterior + gestión de usuarios + auditoría.
 
+## Imágenes
+
+<img width="1311" height="624" alt="Image" src="https://github.com/user-attachments/assets/5cf4fff1-d2c8-4b5c-ae54-b86004b178b7" />
+
 ## Despliegue rápido con Docker compose 
 ```yaml
 services:
