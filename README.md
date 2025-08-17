@@ -10,7 +10,7 @@ Aplicación para registrar partidas de juegos de mesa con roles *socio* y *super
 
 <img width="1311" height="624" alt="Image" src="https://github.com/JMProf/boardlog/blob/main/images/Juegos.PNG" />
 
-<img width="1311" height="624" alt="Image" src="[https://github.com/JMProf/boardlog/blob/main/images/Partidas.PNG" />
+<img width="1311" height="624" alt="Image" src="https://github.com/JMProf/boardlog/blob/main/images/Partidas.PNG" />
 
 <img width="1311" height="624" alt="Image" src="https://github.com/JMProf/boardlog/blob/main/images/Usuarios.PNG" />
 
